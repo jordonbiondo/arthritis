@@ -2,8 +2,9 @@ source 'https://rubygems.org'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.1.1'
-gem 'mysql2'
+gem 'rails', '4.2.11.3'
+gem 'mysql2', '~> 0.5.7'
+gem 'bigdecimal', '~> 1.4.4'
 gem 'haml-rails', '>= 0.3.4'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
